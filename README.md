@@ -40,6 +40,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+![tsukhiro github io_Stranger-Things-LP_(Nest Hub Max)](https://user-images.githubusercontent.com/89936463/186708802-5f3d6207-347f-4d8b-ab14-ed774db219ab.png)
+
 <br>
 <br>
 
