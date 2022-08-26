@@ -58,5 +58,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 😃 Agradecimento
 
-<p align="center"> Agradeço pela disponibilidade deste curso que agregou tanto conhecimento para minha vida profissional e abriu caminhos para novas oportunidades. Parabéns para os responsáveis pelo excelente conteúdo e pela forma como foi apresentada. </p>
+<p align="center"> Agradeço pela disponibilidade deste curso que agregou tanto conhecimento para minha vida profissional, foram os 3 valiosos com muito conhecimento novo e reforçando conhecimentos que eu já conhecia. Parabéns para os responsáveis pelo excelente conteúdo e pela forma como foi apresentada, a didática foi muito simples e acolhedora, sendo possivel até pessoas sem conhecimento na área extrair um bom conhecimento! </p>
 
