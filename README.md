@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🎨 Preview do Layout
 
->Link: https://tsukhiro.github.io/Stranger-Things-LP/
+>Link: https://tsukhiro.github.io/LP-StrangerThings/
 
 <br>
 
