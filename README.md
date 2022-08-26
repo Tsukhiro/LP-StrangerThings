@@ -52,6 +52,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ![certificado2](https://user-images.githubusercontent.com/89936463/186706493-b0337ca5-055f-4048-b731-56f91c56a480.PNG)
 
+![certificado3](https://user-images.githubusercontent.com/89936463/186901253-990fb581-6cf0-4d3e-9377-d0aaee3dc92b.PNG)
+
+
+
 ## 😃 Agradecimento
 
 <p align="center"> Agradeço pela disponibilidade deste curso que agregou tanto conhecimento para minha vida profissional e abriu caminhos para novas oportunidades. Parabéns para os responsáveis pelo excelente conteúdo e pela forma como foi apresentada. </p>
